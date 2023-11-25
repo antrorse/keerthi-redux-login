@@ -1,0 +1,154 @@
+body{
+    background-color: hsla(0, 100%, 50%, 0.3); 
+    justify-content: center;
+    align-items: center;
+}
+.main
+{
+   
+   
+    height: 100%;
+    width: 60%;
+    outline: none;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding-left: 15rem;
+    font-size: 17px;
+    transition: all 0.3s ease;
+    padding-top: 7rem;
+  
+
+}
+h2
+{
+padding:20px;
+
+ text-align: center;
+ font-weight: 700;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ color:hsla(0, 84%, 13%, 0.47);  
+}
+
+
+input[type=email]{
+    width: 60%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    align-items: center;
+  }
+  input[type=password]{
+    width: 60%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    align-items: center;
+    place-items: center;
+  }
+  input[type=text]{
+    width: 60%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    align-items: center;
+    place-items: center;
+  }
+  .buttonsec {
+    width: 15%;
+    background-color: #af4c70;
+    color: white;
+    padding: 14px 20px;
+    margin-left: 7rem;
+    margin-top: 2rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    justify-content: center;
+    place-items: center;
+    
+ 
+  }
+  .button1 {
+    width: 15%;
+    background-color: #af4c70;
+    color: white;
+    padding: 14px 10px;
+    margin-left: 7rem;
+    margin-top: 2rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    justify-content: center;
+    place-items: center;
+    
+ 
+  }
+  .buttonsec1 {
+    width: 15%;
+    background-color: #af4c70;
+    color: white;
+    padding: 14px 20px;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    justify-content: center;
+    place-items: center;
+    
+ 
+  }
+  .button2 {
+    width: 15%;
+    background-color: #af4c70;
+    color: white;
+    padding: 14px 10px;
+    margin-left: 7rem;
+    margin-top: 2rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    justify-content: center;
+    place-items: center;
+    
+ 
+  }
+form {
+    margin: 30px;
+    padding-left: 1em ;
+    padding-bottom: 5em;
+    border: 0.3rem solid #de2d2d;
+    place-items: center;
+    border-radius: 3rem;
+    
+   
+   }
+   .flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    align-content:space-evenly;
+    place-items: center;
+    padding-left: 10rem;
+  }
+  .spansec{
+
+  
+    margin-left: 3rem;
+  }
+ 
+  
+  
